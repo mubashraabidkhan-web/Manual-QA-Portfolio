@@ -1,5 +1,4 @@
 # Manual-QA-Portfolio
-# Manual QA Portfolio
 
 I am a BSCS graduate with manual testing experience, learning QA automation with Python and pytest.
 
